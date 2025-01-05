@@ -1,4 +1,4 @@
 update favourite color
 new favourite color is yellow
 update age
-ne age is 37
+new age is 37
